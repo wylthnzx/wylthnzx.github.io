@@ -1994,11 +1994,11 @@ body {
         margin: 0 auto;
       }
     @font-face {
-      font-family: 'FZZJ-WJXSJF';
-      src: url('/media/fonts/FZZJ-WJXSJF.ttf');
+      font-family: 'STXINGKA';
+      src: url('/media/fonts/STXINGKA.ttf');
     }
     * {
-        font-family: 'FZZJ-WJXSJF';
+        font-family: 'STXINGKA';
     }body {
       color: #555;
     }
