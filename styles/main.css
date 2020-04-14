@@ -1994,11 +1994,11 @@ body {
         margin: 0 auto;
       }
     @font-face {
-      font-family: 'FZZJ-LYYBXSJW';
-      src: url('/media/fonts/FZZJ-LYYBXSJW.ttf');
+      font-family: 'FZZJ-WJXSJF';
+      src: url('/media/fonts/FZZJ-WJXSJF.ttf');
     }
     * {
-        font-family: 'FZZJ-LYYBXSJW';
+        font-family: 'FZZJ-WJXSJF';
     }body {
       color: #555;
     }
