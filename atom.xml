@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://https://wylthnzx.github.io/</id>
-    <title>wylt</title>
-    <updated>2020-04-14T15:44:58.230Z</updated>
+    <title>wylt&apos;s blog</title>
+    <updated>2020-04-14T21:03:46.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://https://wylthnzx.github.io/"/>
     <link rel="self" href="https://https://wylthnzx.github.io/atom.xml"/>
-    <subtitle>海南中学-吴语乐天</subtitle>
     <logo>https://https://wylthnzx.github.io/images/avatar.png</logo>
     <icon>https://https://wylthnzx.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, wylt</rights>
+    <rights>All rights reserved 2020, wylt&apos;s blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://https://wylthnzx.github.io/post/hello-gridea/</id>
