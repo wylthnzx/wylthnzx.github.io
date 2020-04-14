@@ -1993,7 +1993,13 @@ body {
         width: 960px;
         margin: 0 auto;
       }
-    body {
+    @font-face {
+      font-family: 'FZZJ-LYYBXSJW';
+      src: url('/media/fonts/FZZJ-LYYBXSJW.ttf');
+    }
+    * {
+        font-family: 'FZZJ-LYYBXSJW';
+    }body {
       color: #555;
     }
     .next-md-body {
