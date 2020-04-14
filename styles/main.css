@@ -1999,7 +1999,11 @@ body {
     }
     * {
         font-family: 'STXINGKA';
-    }body {
+    }
+    .post-body {
+      font-size: 24px !important
+    }
+    body {
       color: #555;
     }
     .next-md-body {
